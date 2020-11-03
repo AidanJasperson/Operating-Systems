@@ -1,1 +1,1 @@
-One function of an operating system is to manage a computers resources, 
+One function of an operating system is to manage a computers resources, such as memory via RAM and hard drive, keeping up with and track of every memory location in the computer.
